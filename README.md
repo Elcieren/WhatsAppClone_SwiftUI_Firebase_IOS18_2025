@@ -1,10 +1,10 @@
  # WhatsApp Clone SwiftUI Firebase IOS 18 2025
  | Oyun Başlıyor | Oyun Bitti && Tekrardan Baslamak |
 |---------|---------|
-| ![Video 1](https://github.com/user-attachments/assets/869ad23b-2d73-4460-8ded-d6cbc632cef1) | ![Video 2](https://github.com/user-attachments/assets/ff77a6cc-e31f-4b5f-b4cd-67d56485e4f3) |
+| ![Video 1](https://github.com/user-attachments/assets/176ef78f-0f25-4980-87e9-a7122808f1ef) | ![Video 2](https://github.com/user-attachments/assets/ff77a6cc-e31f-4b5f-b4cd-67d56485e4f3) |
 
 
-##🔥 Kullanılan Teknolojiler
+🔥 Kullanılan Teknolojiler
 
 SwiftUI: Modern ve deklaratif bir kullanıcı arayüzü oluşturmak için kullanıldı.
 Firebase Authentication: Kullanıcıların e-posta/parola veya diğer kimlik doğrulama yöntemleriyle giriş yapmasını sağlar.
