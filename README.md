@@ -2,7 +2,7 @@
 
 | Giriş İşlemi | Mesaj Atmak | Mesaj Almak |
 |-------------|------------|------------|
-| <img src="https://github.com/user-attachments/assets/176ef78f-0f25-4980-87e9-a7122808f1ef" width="300"/> | <img src="https://github.com/user-attachments/assets/b2288db6-8835-4dd4-b513-ae9ed86f30e4" width="300"/> | <img src="https://github.com/user-attachments/assets/ded9de59-3066-43a1-8f8d-fae9bc0b50d2" width="300"/> |
+| <img src="https://github.com/user-attachments/assets/176ef78f-0f25-4980-87e9-a7122808f1ef" width="200"/> | <img src="https://github.com/user-attachments/assets/b2288db6-8835-4dd4-b513-ae9ed86f30e4" width="200"/> | <img src="https://github.com/user-attachments/assets/ded9de59-3066-43a1-8f8d-fae9bc0b50d2" width="200"/> |
 
 
 
