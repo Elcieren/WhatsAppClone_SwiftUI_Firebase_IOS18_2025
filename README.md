@@ -5,6 +5,12 @@
 | <img src="https://github.com/user-attachments/assets/176ef78f-0f25-4980-87e9-a7122808f1ef" width="200"/> | <img src="https://github.com/user-attachments/assets/b2288db6-8835-4dd4-b513-ae9ed86f30e4" width="200"/> | <img src="https://github.com/user-attachments/assets/ded9de59-3066-43a1-8f8d-fae9bc0b50d2" width="200"/> |
 
 
+# Projeye Katılım Hakkında
+
+Bu projede kullanılan API anahtarları güvenlik ve gizlilik açısından hassas verilerdir ve commit geçmişinde yer alıyor olabilir. Bu nedenle, proje kaynak kodu doğrudan paylaşılmamaktadır.
+
+Projeye katkıda bulunmak isteyenler, lütfen benimle **e-posta** yoluyla iletişime geçsinler. Detaylı bilgi almak ve projeye dahil olmak için benimle iletişime geçebilirsiniz.
+
 
 🔥 Kullanılan Teknolojiler
 
