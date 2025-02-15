@@ -1,7 +1,7 @@
  # WhatsApp Clone SwiftUI Firebase IOS 18 2025
- | Oyun Başlıyor | Oyun Bitti && Tekrardan Baslamak |
+ | Giris Islemi | Mesaj Atmak |Mesaj Almak |
 |---------|---------|
-| ![Video 1](https://github.com/user-attachments/assets/176ef78f-0f25-4980-87e9-a7122808f1ef) | ![Video 2](https://github.com/user-attachments/assets/ff77a6cc-e31f-4b5f-b4cd-67d56485e4f3) |
+| ![Video 1](https://github.com/user-attachments/assets/176ef78f-0f25-4980-87e9-a7122808f1ef) | ![Video 2](https://github.com/user-attachments/assets/b2288db6-8835-4dd4-b513-ae9ed86f30e4) | ![Video 3](https://github.com/user-attachments/assets/ded9de59-3066-43a1-8f8d-fae9bc0b50d2) |
 
 
 🔥 Kullanılan Teknolojiler
